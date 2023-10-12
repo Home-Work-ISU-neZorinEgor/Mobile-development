@@ -10,7 +10,7 @@ class Robot(var x: Int, var y: Int, var direction: Direction) {
     }
 
     fun turnLeft(){
-        when (direction){
+        direction = when (direction){
             Direction.DOWN -> Direction.RIGHT
             Direction.UP -> Direction.LEFT
             Direction.LEFT -> Direction.DOWN
@@ -19,7 +19,7 @@ class Robot(var x: Int, var y: Int, var direction: Direction) {
     }
 
     fun turnRight(){
-        when (direction){
+        direction = when (direction){
             Direction.DOWN -> Direction.LEFT
             Direction.UP -> Direction.RIGHT
             Direction.LEFT -> Direction.UP
