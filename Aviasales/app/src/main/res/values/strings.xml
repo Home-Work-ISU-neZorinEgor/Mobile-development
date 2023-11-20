@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">Aviasales</string>
+    <string name="app_name">aviasales</string>
+    <string name="start">Откуда</string>
+    <string name="end">Куда</string>
+    <string name="selectdate">selectDate</string>
+    <string name="count">Кол-во:</string>
+    <string name="par1">взрослых</string>
+    <string name="par2">детей</string>
+    <string name="par3">младенцев</string>
+    <string name="find">Найти</string>
+    <string-array name="cityes">
+        <item>Выберите</item>
+        <item>Иркутск</item>
+        <item>Ангарск</item>
+        <item>Шелехов</item>
+        <item>Москва</item>
+        <item>Новосибирск</item>
+    </string-array>
 </resources>
