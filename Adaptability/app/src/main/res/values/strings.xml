@@ -1,0 +1,9 @@
+<resources>
+<string name="app_name">Adaptability</string>
+<string-array name="pictures">
+    <item>squarecat</item>
+    <item>car 1</item>
+    <item>car 2</item>
+    <item>car 3</item>
+</string-array>
+</resources>
