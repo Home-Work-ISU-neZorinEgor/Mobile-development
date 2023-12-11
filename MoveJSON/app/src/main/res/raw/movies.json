@@ -1,0 +1,39 @@
+{
+  "movies": [
+    {
+      "title": "Beyond the Stars",
+      "duration": "2 hours 15 minutes",
+      "country": ["USA"],
+      "year": "2023",
+      "rating": "8.5"
+    },
+    {
+      "title": "Eternal Echoes",
+      "duration": "2 hours 40 minutes",
+      "country": ["Canada", "France"],
+      "year": "2023",
+      "rating": "9.1"
+    },
+    {
+      "title": "Chronicles of Tomorrow",
+      "duration": "2 hours 30 minutes",
+      "country": ["USA", "Japan"],
+      "year": "2023",
+      "rating": "8.7"
+    },
+    {
+      "title": "Midnight Mirage",
+      "duration": "2 hours 18 minutes",
+      "country": ["Australia"],
+      "year": "2023",
+      "rating": "8.9"
+    },
+    {
+      "title": "Whispers in the Wind",
+      "duration": "2 hours 25 minutes",
+      "country": ["UK", "Germany"],
+      "year": "2023",
+      "rating": "9.0"
+    }
+  ]
+}

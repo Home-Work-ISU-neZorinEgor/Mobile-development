@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MoveJSON</string>
+    <string name="film_name">Title:</string>
+    <string name="duration">Duration:</string>
+    <string name="country">Country:</string>
+    <string name="year">Year:</string>
+    <string name="rating">Rating:</string>
+    <string name="btn_select">Next</string>
+    <string name="btn_rst">Restart</string>
+    <string name="err">All films watched</string>
+    <string name="start_msg">Press to get parse Film</string>
+</resources>
