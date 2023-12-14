@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab28</string>
+    <string name="main_text_button">Test Button</string>
+    <string name="description">Orange present box</string>
+</resources>
